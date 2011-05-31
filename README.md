@@ -4,7 +4,7 @@ Follow these instructions to get acquainted with git and Github.
 
 1. Fork this repository
 2. Clone your fork to your local machine.
-3. Switch to the "gh-pages".
+3. Switch to the "gh-pages" branch in your cloned repository on your local machine.
 4. Create a folder titled with your name (no spaces).
 5. Create an index.md file similar to the one in the root of the repo.
 6. Edit the index.md file with information about yourself.
